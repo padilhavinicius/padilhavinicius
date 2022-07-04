@@ -7,7 +7,7 @@
 - 📫 &nbsp; Feel free to ping me, get in touch [here](https://viniciuspad.github.io);
 <!-- - 📝 &nbsp; Checkout my [resume](https://docs.google.com/document/d/12TGzUHwg-M69elQ_ZGRIO-jlwXl1UIzDNe2s8mmCsQM/edit?usp=sharing); -->
 
-## 🔨 Languages and Tools:
+## Main Stack:
 
 <a href="#">
   <img
@@ -45,7 +45,3 @@
 </a>
 
 <br />
-
-## 📊 Github Stats:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=viniciuspad&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
