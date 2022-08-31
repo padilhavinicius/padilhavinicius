@@ -4,7 +4,7 @@
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/vinciuspad?tab=repositories);
 - 🌱 &nbsp; I’m currently learning Typescript, WebGL and Three.js; 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me, get in touch [here](https://viniciuspad.github.io);
+- 📫 &nbsp; Feel free to ping me, get in touch [here](https://vinicius-padilha.github.io);
 <!-- - 📝 &nbsp; Checkout my [resume](https://docs.google.com/document/d/12TGzUHwg-M69elQ_ZGRIO-jlwXl1UIzDNe2s8mmCsQM/edit?usp=sharing); -->
 
 ## Main Stack:
