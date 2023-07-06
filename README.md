@@ -1,7 +1,7 @@
 # Hey 👋, I'm Vinícius Padilha!
 
 - 🔭 &nbsp; I’m currently working on [L2 Code](https://www.linkedin.com/company/l2code-dev/mycompany/);
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/vinciuspad?tab=repositories);
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/vincius-padilha?tab=repositories);
 - 🌱 &nbsp; I’m currently learning Typescript, WebGL and Three.js; 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me, get in touch [here](https://vinicius-padilha.github.io);
@@ -41,6 +41,20 @@
   <img
     alt="React"
     src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB"
+  />
+</a>
+
+<a href="#">
+  <img
+    alt="React Native"
+    src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+  />
+</a>
+
+<a href="#">
+  <img
+    alt="Tailwind CSS"
+    src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
   />
 </a>
 
