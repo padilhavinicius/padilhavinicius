@@ -2,9 +2,9 @@
 
 - 🔭 &nbsp; I’m currently working on [L2 Code](https://www.linkedin.com/company/l2code-dev/mycompany/);
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/padilhavinicius?tab=repositories);
-- 🌱 &nbsp; I’m currently learning Typescript, WebGL and Three.js; 
+- 🌱 &nbsp; I’m currently learning Swift, WebGL and Three.js; 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me, get in touch [here](https://padilhavinicius.github.io);
+- 📫 &nbsp; Feel free to ping me, get in touch [here](https://api.whatsapp.com/send/?phone=51995779761&text&type=phone_number&app_absent=0);
 <!-- - 📝 &nbsp; Checkout my [resume](https://docs.google.com/document/d/12TGzUHwg-M69elQ_ZGRIO-jlwXl1UIzDNe2s8mmCsQM/edit?usp=sharing); -->
 
 ## Main Stack:
