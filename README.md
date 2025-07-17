@@ -1,63 +1,36 @@
-# Hey 👋, I'm Vinícius Padilha!
+# 👋 Hi, I'm Vinícius Padilha
 
-Frontend Developer with 9+ years of experience, specializing in JavaScript, React, and React Native, with a strong foundation in frontend technologies.
+👨‍💻 Frontend Tech Lead passionate about building scalable, high-performance user experiences.  
+💻 I have over 9 years of experience specializing in **Javascript**, **React**, and **React Native**, with a strong foundation in modern frontend technologies.
 
-- 🔭 &nbsp; I’m currently working on [L2 Code](https://www.linkedin.com/company/l2code-dev/mycompany/);
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/padilhavinicius?tab=repositories);
-- 🌱 &nbsp; I’m currently learning Swift, WebGL and Three.js; 
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me, get in touch [here](https://api.whatsapp.com/send/?phone=51995779761&text&type=phone_number&app_absent=0);
-<!-- - 📝 &nbsp; Checkout my [resume](https://docs.google.com/document/d/12TGzUHwg-M69elQ_ZGRIO-jlwXl1UIzDNe2s8mmCsQM/edit?usp=sharing); -->
+---
 
-## Main Stack:
+### 🔧 Tech Stack
 
-<a href="#">
-  <img
-    alt="HTML5"
-    src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white"
-  />
-</a>
+- **Frontend:** React, TypeScript, Next.js, Tailwind CSS, Radix UI  
+- **Mobile:** React Native, Expo, Learning Kotlin and Swift
+- **Testing & Monitoring:** Cypress, Jest, Sentry, Hotjar  
+- **Tooling:** Vite, Yarn Workspaces, Monorepos, Storybook, ESLint, Prettier  
+- **DevOps & Hosting:** Vercel, Firebase Hosting, GitHub Actions  
+- **Design Systems:** Custom token systems with Tailwind, component libraries with Storybook 
 
-<a href="#">
-  <img
-    alt="CSS3"
-    src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white"
-  />
-</a>
+---
 
-<a href="#">
-  <img
-    alt="JavaScript"
-    src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E"
-  />
-</a>
+### 🛠️ Current Projects
 
-<a href="#">
-  <img
-    alt="TypeScript"
-    src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
-  />
-</a>
+- 📦 Building a **plug-and-play credit SDK** for React applications  
+- 💳 Leading the frontend for a **digital credit platform** for clinics and patients (B2B & B2C)  
+- 🧱 Creating and maintaining a **design system** with shared UI components and tokens
 
-<a href="#">
-  <img
-    alt="React"
-    src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB"
-  />
-</a>
+---
 
-<a href="#">
-  <img
-    alt="React Native"
-    src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-  />
-</a>
+### ⚡ Fun Facts
 
-<a href="#">
-  <img
-    alt="Tailwind CSS"
-    src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
-  />
-</a>
+- 📚 Always learning: currently diving deeper into platform architecture, product design and native mobile languages (Kotlin and Swift)
+- 👨‍👩‍👧 I'm a full-time remote developer, father of a curious toddler, and the designated home chef  
+- ⏱️ I love optimizing things — whether it's frontend performance or my family's weekly routine  
 
-<br />
+---
+
+📫 **Let’s connect:**  
+[LinkedIn](https://www.linkedin.com/in/viniciuspadilha) • [Portfolio](https://padilhavinicius.github.io/) • [Twitter](https://twitter.com/ahlidapsuicniv)
