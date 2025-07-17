@@ -1,18 +1,52 @@
 # 👋 Hi, I'm Vinícius Padilha
 
 👨‍💻 Frontend Tech Lead passionate about building scalable, high-performance user experiences.  
-💻 I have over 9 years of experience specializing in **Javascript**, **React**, and **React Native**, with a strong foundation in modern frontend technologies.
+💻 I have over 9 years of experience specializing in **JavaScript**, **React**, and **React Native**, with a strong foundation in modern frontend technologies.
 
 ---
 
-### 🔧 Tech Stack
+## 🔧 Tech Stack
 
-- **Frontend:** React, TypeScript, Next.js, Tailwind CSS, Radix UI  
-- **Mobile:** React Native, Expo, Learning Kotlin and Swift
-- **Testing & Monitoring:** Cypress, Jest, Sentry, Hotjar  
-- **Tooling:** Vite, Yarn Workspaces, Monorepos, Storybook, ESLint, Prettier  
-- **DevOps & Hosting:** Vercel, Firebase Hosting, GitHub Actions  
-- **Design Systems:** Custom token systems with Tailwind, component libraries with Storybook 
+### Frontend  
+- **Library & Frameworks:** React (SPA), TypeScript, Next.js (SSR & SSG)
+- **Foundation:** HTML, CSS, Javascript
+- **Styling:** Tailwind CSS, Styled components, CSS preprocessor's 
+- **Mobile:** React Native, Expo · Learning Kotlin (Jetpack Compose) and Swift (SwiftUI)  
+
+### Testing & Monitoring  
+- **E2E & Unit:** Cypress, Jest, React Testing Library
+- **Monitoring & UX:** Sentry, Hotjar, Crashlytics  
+
+### Tooling  
+- **Build Tools:** Vite, Webpack, Yarn Workspaces  
+- **Dev Tools:** Storybook, ESLint, Prettier, GitHub Actions, GitHub Packages, Docker (basic for local dev)  
+
+### DevOps & Hosting  
+- Vercel, Firebase, GitHub Actions  
+
+---
+
+## 🧠 Other Skills & Tools
+
+### Architecture & Standards
+- Atomic Design, Clean Architecture
+- Responsive Design, Accessibility (WCAG/a11y)
+
+### API & Data Layer  
+- REST, GraphQL (Apollo), Auth (OAuth2, JWT, PKCE)  
+- React Query, Axios, React Hook Form (with Zod or Yup)
+
+### DX & Automation  
+- Husky, Lint-staged, Commitlint, Semantic Release, Conventional Commits  
+
+### State Management  
+- Redux Toolkit, Zustand, Context API
+
+### Animations  
+- Framer Motion (web), Reanimated (mobile), React Spring, Lottie
+
+### Workflow & Collaboration  
+- Agile (Scrum/Kanban), Jira, Azure, Trello, Figma
 
 ---
 
@@ -26,9 +60,9 @@
 
 ### ⚡ Fun Facts
 
-- 📚 Always learning: currently diving deeper into platform architecture, product design and native mobile languages (Kotlin and Swift)
-- 👨‍👩‍👧 I'm a full-time remote developer, father of a curious toddler, and the designated home chef  
-- ⏱️ I love optimizing things — whether it's frontend performance or my family's weekly routine  
+- 📚 Lifelong learner — currently diving deeper into platform architecture, product design, and native mobile development (Kotlin & Swift)  
+- 👨‍👩‍👧 Full-time remote developer, father of a curious toddler, and the family's designated home chef  
+- ⏱️ I love optimizing things — whether it’s frontend performance or my family’s daily routine
 
 ---
 
