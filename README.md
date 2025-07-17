@@ -1,5 +1,7 @@
 # Hey 👋, I'm Vinícius Padilha!
 
+Frontend Developer with 9+ years of experience, specializing in JavaScript, React, and React Native, with a strong foundation in frontend technologies.
+
 - 🔭 &nbsp; I’m currently working on [L2 Code](https://www.linkedin.com/company/l2code-dev/mycompany/);
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/padilhavinicius?tab=repositories);
 - 🌱 &nbsp; I’m currently learning Swift, WebGL and Three.js; 
