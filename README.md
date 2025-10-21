@@ -8,21 +8,21 @@
 ## 🔧 Tech Stack
 
 ### Frontend  
-- **Library & Frameworks:** React (SPA), TypeScript, Next.js (SSR & SSG)
+- **Library & Frameworks:** Angular, React (SPA), TypeScript, Next.js (SSR & SSG)
 - **Foundation:** HTML, CSS, Javascript
-- **Styling:** Tailwind CSS, Styled components, CSS preprocessor's 
-- **Mobile:** React Native, Expo · Learning Kotlin (Jetpack Compose) and Swift (SwiftUI)  
+- **Styling:** Tailwind CSS, Styled components, CSS preprocessor's (SCSS & SASS)
+- **Mobile:** React Native, Expo
 
 ### Testing & Monitoring  
 - **E2E & Unit:** Cypress, Jest, React Testing Library
 - **Monitoring & UX:** Sentry, Hotjar, Crashlytics  
 
 ### Tooling  
-- **Build Tools:** Vite, Webpack, Yarn Workspaces  
-- **Dev Tools:** Storybook, ESLint, Prettier, GitHub Actions, GitHub Packages, Docker (basic for local dev)  
+- **Build Tools:** Vite, Webpack, Yarn Workspaces
+- **Dev Tools:** Storybook, ESLint, Prettier, Docker (basic for local dev)  
 
 ### DevOps & Hosting  
-- Vercel, Firebase, GitHub Actions  
+- Vercel, Firebase, GitHub Actions, GitHub Packages  
 
 ---
 
@@ -30,10 +30,10 @@
 
 ### Architecture & Standards
 - Atomic Design, Clean Architecture
-- Responsive Design, Accessibility (WCAG/a11y)
+- Responsive Design, Accessibility (WCAG/a11y), Translation (i18next)
 
 ### API & Data Layer  
-- REST, GraphQL (Apollo), Auth (OAuth2, JWT, PKCE)  
+- REST, GraphQL (Apollo), Auth (JWT)  
 - React Query, Axios, React Hook Form (with Zod or Yup)
 
 ### DX & Automation  
@@ -53,14 +53,14 @@
 ### 🛠️ Current Projects
 
 - 📦 Building a **plug-and-play credit SDK** for React applications  
-- 💳 Leading the frontend for a **digital credit platform** for clinics and patients (B2B & B2C)  
+- 💳 Leading the frontend for a **digital credit platform** (B2B & B2C)  
 - 🧱 Creating and maintaining a **design system** with shared UI components and tokens
 
 ---
 
 ### ⚡ Fun Facts
 
-- 📚 Lifelong learner — currently diving deeper into platform architecture, product design, and native mobile development (Kotlin & Swift)  
+- 📚 Lifelong learner — currently diving deeper into platform architecture and product design  
 - 👨‍👩‍👧 Full-time remote developer, father of a curious toddler, and the family's designated home chef  
 - ⏱️ I love optimizing things — whether it’s frontend performance or my family’s daily routine
 
