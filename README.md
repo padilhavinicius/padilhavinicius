@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vinícius Padilha
 
 👨‍💻 Frontend Tech Lead passionate about building scalable, high-performance user experiences.  
-💻 I have over 9 years of experience specializing in **JavaScript**, **React**, and **React Native**, with a strong foundation in modern frontend technologies.
+💻 I have over 9 years of experience specializing in **Angular**, **React**, and **React Native**, with a strong foundation in modern frontend technologies.
 
 ---
 
