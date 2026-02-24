@@ -12,4 +12,4 @@
 ---
 
 📫 **Let’s connect:**  
-[LinkedIn](https://www.linkedin.com/in/viniciuspadilha) • [Portfolio](https://padilhavinicius.github.io/) • [WhatsApp](http://wa.me/51989758749)
+[LinkedIn](https://www.linkedin.com/in/viniciuspadilha) • [Portfolio](https://padilhavinicius.github.io/) • [WhatsApp](http://wa.me/5551989758749)
