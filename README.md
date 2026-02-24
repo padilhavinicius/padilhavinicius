@@ -1,15 +1,21 @@
 # 👋 Hi, I'm Vinícius Padilha
 
-👨‍💻 Frontend Tech Lead passionate about building scalable, high-performance user experiences.  
-💻 10+ years of experience specializing in **Angular**, **React**, and **React Native**, with a strong foundation in modern frontend technologies.
+Frontend Tech Lead with 10+ years of experience building scalable, high-performance user experiences. Specialized in **Angular**, **React**, and **React Native** with a passion for modern frontend architecture and best practices.
 
-## ⚡ Fun Facts
+## 🎯 What I Do
 
-- 📚 Lifelong learner — currently diving deeper into platform architecture and product design  
-- 👨‍👩‍👧 Full-time remote developer, father of a curious toddler, and the family's designated home chef  
-- ⏱️ I love optimizing things — whether it’s frontend performance or my family’s daily routine
+- 🏗️ **Lead frontend initiatives** — architecting scalable solutions and mentoring engineering teams
+- ⚡ **Optimize performance** — crafting fast, accessible, and user-centric interfaces
+- 🔧 **Modern tech stack** — Angular, React, React Native, and emerging frontend technologies
+
+## 👨‍💻 About Me
+
+- 📚 Continuous learner passionate about platform architecture and product design
+- 👨‍👩‍👧 Full-time remote developer, father, and barbecue lover
+- ♻️ Advocate for performance optimization and clean code practices
 
 ---
 
-📫 **Let’s connect:**  
+## 🔗 Let's Connect
+
 [LinkedIn](https://www.linkedin.com/in/viniciuspadilha) • [Portfolio](https://padilhavinicius.github.io/) • [WhatsApp](http://wa.me/5551989758749)
